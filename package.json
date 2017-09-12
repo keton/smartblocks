@@ -1,0 +1,26 @@
+{
+  "name": "smartblocks",
+  "version": "0.0.1",
+  "description": "Smart Blocks SDK BLE Services binding to Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keton/smartblocks.git"
+  },
+  "keywords": [
+    "BLE",
+    "smartblocks"
+  ],
+  "author": "Michal Lower",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keton/smartblocks/issues"
+  },
+  "homepage": "https://github.com/keton/smartblocks#readme",
+  "dependencies": {
+    "noble-device": "^1.4.1"
+  }
+}
