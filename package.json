@@ -1,5 +1,5 @@
 {
-  "name": "smartblocks",
+  "name": "ble-smartblocks",
   "version": "0.0.1",
   "description": "Smart Blocks SDK BLE Services binding to Node.js",
   "main": "index.js",
