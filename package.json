@@ -1,0 +1,32 @@
+{
+  "name": "ble-smartblocks",
+  "version": "0.0.1",
+  "description": "Node.js interface for Smartblocks SDK devices",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keton/smartblocks.git"
+  },
+  "keywords": [
+    "BLE",
+    "smartblocks",
+    "noble",
+    "typescript"
+  ],
+  "author": "Michal Lower",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keton/smartblocks/issues"
+  },
+  "homepage": "https://github.com/keton/smartblocks#readme",
+  "dependencies": {
+    "noble_base": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/noble": "0.0.33",
+    "@types/node": "^8.0.28"
+  }
+}
