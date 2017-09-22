@@ -17,17 +17,18 @@
     "noble",
     "typescript"
   ],
-  "author": "Michal Lower",
+  "author": "Michal Lower (https://github.com/keton)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/keton/smartblocks/issues"
   },
   "homepage": "https://github.com/keton/smartblocks#readme",
   "dependencies": {
-    "noble_base": "^1.0.3"
+    "noble_base": "^1.0.4"
   },
   "devDependencies": {
-    "@types/noble": "0.0.33",
+    "@types/noble": ">=0.0.34",
     "@types/node": "^8.0.28"
-  }
+  },
+  "engines" : { "node" : ">=6.11.0" }
 }
