@@ -2,3 +2,4 @@
 export * from "./smatblocksBaseUUID";
 export * from "./pthService";
 export * from "./airQualityService";
+export * from "./pmSensorService";
