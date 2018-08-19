@@ -1,6 +1,6 @@
 {
   "name": "ble-smartblocks",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Node.js interface for Smartblocks SDK devices",
   "main": "lib/index.js",
   "types": "lib/index",
